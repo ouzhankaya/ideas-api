@@ -1,0 +1,11 @@
+{
+    "type":"postgres",
+    "host":"localhost",
+    "port":"5432",
+    "username":"postgres",
+    "password":"1221",
+    "database":"ideasDB",
+    "synchronize":"true",
+    "logging":"true",
+    "entities": ["./dist/**/*.entity.js"]
+}
